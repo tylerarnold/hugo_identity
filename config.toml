@@ -54,7 +54,7 @@ googleAnalytics = "UA-36324466-3"
 		
 	[params.contact]
 		enable = true
-		formTitle = "Contact"
+		formTitle = "available for contracting"
 		namePlaceholder = "Name"
 		emailPlaceholder = "Email"
 		messagePlaceholder = "Message"
@@ -63,6 +63,10 @@ googleAnalytics = "UA-36324466-3"
 	# Social settings
 	# You may change these with your social links or add others
 
+	[[params.social]]
+		title = "Tennis Luv"
+		icon  = "fa-apple"
+		link = "https://itunes.apple.com/us/app/tennisluv/id1072819856?ls=1&mt=8" 
 	[[params.social]]
 		title = "Twitter"
 		icon = "fa-twitter"
