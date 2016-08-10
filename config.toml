@@ -1,11 +1,11 @@
 # Site settings
-baseurl = "http://tylerarnold.github.io/hugo_identity" #without ending slash
+baseurl = "https://tylerarnold.github.io/hugo_identity" #without ending slash
 languageCode = "en-us"
 theme = "hugo-identity-theme"
 title = "Hugo Identity Theme"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-XXXXX-Y"
+googleAnalytics = "UA-36324466-3"
 
 [params]
 	
